@@ -2,3 +2,7 @@ trout
 carp
 salmon
 tuna
+oscar
+talapia
+shark
+Cod 
